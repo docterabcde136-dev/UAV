@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Rename-Item \"f:\\\\Fly\\\\PID - 1\\\\MDK-ARM\\\\WHEELTEC.uvprojx\" \"Fly_PID.uvprojx\")",
+      "PowerShell(Rename-Item \"f:\\\\Fly\\\\PID - 1\\\\MDK-ARM\\\\WHEELTEC.uvoptx\" \"Fly_PID.uvoptx\")",
+      "PowerShell(Rename-Item \"f:\\\\Fly\\\\PID - 1\\\\MDK-ARM\\\\WHEELTEC.uvguix.Riooo\" \"Fly_PID.uvguix.Riooo\")",
+      "PowerShell(Rename-Item \"f:\\\\Fly\\\\PID - 1\\\\MDK-ARM\\\\WHEELTEC.uvguix.Administrator\" \"Fly_PID.uvguix.Administrator\")"
+    ]
+  }
+}

@@ -1,55 +1,70 @@
-# Prerequisites
-*.d
-
-# Object files
+# ===== Keil MDK 编译中间产物（体积最大，必须忽略）=====
 *.o
-*.ko
-*.obj
-*.elf
-
-# Linker output
-*.ilk
+*.crf
+*.d
+*.dep
+*.lst
+*.htm
+*.build_log.htm
+*.lnp
+*.axf
+*.bin
+*.hex
 *.map
+*.ilk
 *.exp
 
-# Precompiled Headers
-*.gch
-*.pch
+# ===== Keil 个人配置与 GUI 状态（每人电脑不同，不要共享）=====
+*.uvoptx
+*.uvguix.*
+*.bak
+*.orig
 
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
+# ===== 调试与日志 =====
+*.log
+*.log.lock
+*.scvd
+*.dbgconf
+DebugConfig/
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
+# ===== VSCode（保留智能提示配置）=====
+.vscode/*
+!.vscode/c_cpp_properties.json
 
-# Executables
+# ===== 大体积非源码文件（超过GitHub限制或无需版本控制）=====
+*.avi
+*.mp4
+*.mov
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# ===== 第三方软件工具（串口助手/烧录器/虚拟串口等，需要时重新下载）=====
 *.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
+*.msi
+*.apk
+*.appimage
+*.deb
+*.rpm
 
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
+# ===== 编译输出目录 =====
+Objects/
+Listings/
+Output/
+build/
+dist/
 
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+# ===== 系统垃圾 =====
+Thumbs.db
+Desktop.ini
+~$*
+*.tmp
+*.temp
 
-# debug information files
-*.dwo
+# ===== MATLAB 临时文件 =====
+*.asv
+*.autosave
+slprj/
+sfprj/

@@ -1,0 +1,8 @@
+This software component is provided to you as part of a software package and
+applicable license terms are in the  Package_license file. If you received this
+software component outside of a package or without applicable license terms,
+the terms of the BSD-3-Clause license shall apply. 
+You may obtain a copy of the BSD-3-Clause at:
+https://opensource.org/licenses/BSD-3-Clause
+
+本软件组件作为软件包的一部分提供给贵方，适用的许可条款见 Package_license 文件。如果您是在软件包之外获取的该软件组件，或未随附适用的许可条款，则适用 BSD-3-Clause 许可协议的条款。您可通过以下网址获取 BSD-3-Clause 许可协议副本：[https://opensource.org/licenses/BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)
