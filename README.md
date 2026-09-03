@@ -2,7 +2,7 @@
 
 
 
-基于 STM32F405 的四轴无人机飞控系统，集成 LQR 与 PID 控制算法、姿态解算、FreeRTOS 实时操作系统、DShot 电调驱动、IMU 多传感器融合（陀螺仪/加速度计）、蓝牙与 PS2 遥控、光流定高，配套 MATLAB/Simulink/Simscape 仿真验证与 Keil MDK 嵌入式开发完整资料。
+
 
 
 
@@ -10,7 +10,7 @@
 
 
 
-基于 STM32F405 的四轴无人机飞控项目，包含 LQR 控制算法、PID 控制算法、电调 DShot 驱动、传感器驱动、MATLAB 仿真等完整开发资料。
+基于 STM32F405 的四轴无人机飞控系统，集成 LQR 与 PID 控制算法、姿态解算、FreeRTOS 实时操作系统、DShot 电调驱动、IMU 多传感器融合（陀螺仪/加速度计）、蓝牙与 PS2 遥控、光流定高，配套 MATLAB/Simulink/Simscape 仿真验证与 Keil MDK 嵌入式开发完整资料。
 
 
 
