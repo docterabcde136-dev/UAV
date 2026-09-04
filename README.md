@@ -12,6 +12,7 @@
 
 基于 STM32F405 的四轴无人机飞控系统，集成 LQR 与 PID 控制算法、姿态解算、FreeRTOS 实时操作系统、DShot 电调驱动、IMU 多传感器融合（陀螺仪/加速度计）、蓝牙与 PS2 遥控、光流定高，配套 MATLAB/Simulink/Simscape 仿真验证与 Keil MDK 嵌入式开发完整资料。
 
+STM32F405-based quadcopter flight control system integrating LQR and PID control algorithms, attitude estimation, FreeRTOS real-time operating system, DShot ESC driver, IMU multi-sensor fusion (gyroscope/accelerometer), Bluetooth and PS2 remote control, and optical flow altitude hold, with complete MATLAB/Simulink/Simscape simulation verification and Keil MDK embedded development resources.
 
 
 ## 目录结构
