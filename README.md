@@ -68,11 +68,9 @@
 
 | 文件 | 大小 | 说明 | 下载链接 |
 
-|------|------|------|----------|
+| LQR.avi | 353 MB | Simscape 四轴飞行器 LQR 控制仿真演示视频 | https://pan.baidu.com/s/13S9hLy8eEmibUFdEDGfKNA?pwd=5m56  |
 
-| LQR.avi | 353 MB | Simscape 四轴飞行器 LQR 控制仿真演示视频 | 百度网盘：https://pan.baidu.com/s/13S9hLy8eEmibUFdEDGfKNA?pwd=5m56  |
-
-| 无人机配套软件工具.zip | ~116 MB | 串口调试助手、虚拟串口、无线烧录助手、蓝牙透传软件、FlyControl APP 等 | 百度网盘 ：https://pan.baidu.com/s/14PjQdfBVtd2VivTcREuWbg?pwd=459s  |
+| 无人机配套软件工具.zip | ~116 MB | 串口调试助手、虚拟串口、无线烧录助手、蓝牙透传软件、FlyControl APP 等 | https://pan.baidu.com/s/14PjQdfBVtd2VivTcREuWbg?pwd=459s  |
 
 
 
